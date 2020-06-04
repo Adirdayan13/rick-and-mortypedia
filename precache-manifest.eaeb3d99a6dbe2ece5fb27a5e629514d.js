@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9528222bc1567baf9ec63c8e3b122b3e",
+    "revision": "a60c5976011a2c5451d423546e02b64b",
     "url": "/rick-and-mortypedia/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rick-and-mortypedia/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e82c905bf2046a1b3faa",
-    "url": "/rick-and-mortypedia/static/css/main.dac10dac.chunk.css"
+    "revision": "2af7c89d9abf33eca976",
+    "url": "/rick-and-mortypedia/static/css/main.6906fc1b.chunk.css"
   },
   {
     "revision": "4e6b81b4e444d93468df",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e82c905bf2046a1b3faa",
+    "revision": "2af7c89d9abf33eca976",
     "url": "/rick-and-mortypedia/static/js/main.3566efd5.chunk.js"
   },
   {
