@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rick-and-mortypedia/static/css/main.cb62e954.chunk.css",
+    "main.css": "/rick-and-mortypedia/static/css/main.a5539c7d.chunk.css",
     "main.js": "/rick-and-mortypedia/static/js/main.04b07e7f.chunk.js",
     "main.js.map": "/rick-and-mortypedia/static/js/main.04b07e7f.chunk.js.map",
     "runtime-main.js": "/rick-and-mortypedia/static/js/runtime-main.71e0ec05.js",
@@ -9,17 +9,17 @@
     "static/js/2.32d890fd.chunk.js": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js",
     "static/js/2.32d890fd.chunk.js.map": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.map",
     "index.html": "/rick-and-mortypedia/index.html",
-    "precache-manifest.26c1ceec1f9720124721e848dd7b30a3.js": "/rick-and-mortypedia/precache-manifest.26c1ceec1f9720124721e848dd7b30a3.js",
+    "precache-manifest.79a074738b719db16e74052d7be016fc.js": "/rick-and-mortypedia/precache-manifest.79a074738b719db16e74052d7be016fc.js",
     "service-worker.js": "/rick-and-mortypedia/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/rick-and-mortypedia/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.cb62e954.chunk.css.map": "/rick-and-mortypedia/static/css/main.cb62e954.chunk.css.map",
+    "static/css/main.a5539c7d.chunk.css.map": "/rick-and-mortypedia/static/css/main.a5539c7d.chunk.css.map",
     "static/js/2.32d890fd.chunk.js.LICENSE.txt": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.71e0ec05.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.32d890fd.chunk.js",
-    "static/css/main.cb62e954.chunk.css",
+    "static/css/main.a5539c7d.chunk.css",
     "static/js/main.04b07e7f.chunk.js"
   ]
 }
