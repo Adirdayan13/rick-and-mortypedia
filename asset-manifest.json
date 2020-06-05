@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/rick-and-mortypedia/static/css/main.48d25239.chunk.css",
-    "main.js": "/rick-and-mortypedia/static/js/main.3566efd5.chunk.js",
-    "main.js.map": "/rick-and-mortypedia/static/js/main.3566efd5.chunk.js.map",
+    "main.css": "/rick-and-mortypedia/static/css/main.be72b258.chunk.css",
+    "main.js": "/rick-and-mortypedia/static/js/main.f05d0ca5.chunk.js",
+    "main.js.map": "/rick-and-mortypedia/static/js/main.f05d0ca5.chunk.js.map",
     "runtime-main.js": "/rick-and-mortypedia/static/js/runtime-main.71e0ec05.js",
     "runtime-main.js.map": "/rick-and-mortypedia/static/js/runtime-main.71e0ec05.js.map",
     "static/css/2.af3c1da9.chunk.css": "/rick-and-mortypedia/static/css/2.af3c1da9.chunk.css",
     "static/js/2.32d890fd.chunk.js": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js",
     "static/js/2.32d890fd.chunk.js.map": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.map",
     "index.html": "/rick-and-mortypedia/index.html",
-    "precache-manifest.6d87469b280408bf3dca81e8534d9cd6.js": "/rick-and-mortypedia/precache-manifest.6d87469b280408bf3dca81e8534d9cd6.js",
+    "precache-manifest.e26ab261f7c86a45c0515a5cdce05222.js": "/rick-and-mortypedia/precache-manifest.e26ab261f7c86a45c0515a5cdce05222.js",
     "service-worker.js": "/rick-and-mortypedia/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/rick-and-mortypedia/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.48d25239.chunk.css.map": "/rick-and-mortypedia/static/css/main.48d25239.chunk.css.map",
-    "static/js/2.32d890fd.chunk.js.LICENSE.txt": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.LICENSE.txt"
+    "static/css/main.be72b258.chunk.css.map": "/rick-and-mortypedia/static/css/main.be72b258.chunk.css.map",
+    "static/js/2.32d890fd.chunk.js.LICENSE.txt": "/rick-and-mortypedia/static/js/2.32d890fd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rick-and-mortypedia/static/media/getschwifty.4b4420cf.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.71e0ec05.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.32d890fd.chunk.js",
-    "static/css/main.48d25239.chunk.css",
-    "static/js/main.3566efd5.chunk.js"
+    "static/css/main.be72b258.chunk.css",
+    "static/js/main.f05d0ca5.chunk.js"
   ]
 }
